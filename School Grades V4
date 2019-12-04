@@ -44,3 +44,5 @@ namespace _3D_Arrays
         }
     }
 }
+
+/// Tools/Options/Text Editor and uncheck "Follow project coding conventions"
